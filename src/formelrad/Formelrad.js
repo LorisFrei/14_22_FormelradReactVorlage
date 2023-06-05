@@ -1,5 +1,3 @@
-import {useState} from "react";
-import '../css/mvp.css';
 import formelrad from "../image/formelradelektronik.gif";
 import InputField from "../formular/InputField";
 
